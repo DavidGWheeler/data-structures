@@ -15,8 +15,7 @@ describe('Testing Node constructor', function() {
     })
     it('should have data', () => {
       expect(node).to.have.property('data')
-      .that.is.a('number')
-      .that.equals(50)
+      .that.equals(null)
     })
     it('should have a null left property', () => {
       expect(node).to.have.property('left')
