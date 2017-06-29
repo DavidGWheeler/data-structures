@@ -2,7 +2,7 @@
   "name": "data-structures",
   "version": "1.0.0",
   "description": "practice data structures",
-  "main": "bst.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
